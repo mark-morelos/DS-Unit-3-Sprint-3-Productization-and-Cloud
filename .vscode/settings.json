@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "/opt/anaconda3/envs/U3SC3/bin/python",
+    "python.dataScience.jupyterServerURI": "local",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint-flask"
+    ]
+}
